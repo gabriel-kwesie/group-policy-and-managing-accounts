@@ -1,4 +1,4 @@
-<h1>Netwrok File Shares and Pemissions</h1>
+<h1>Network File Shares and Pemissions</h1>
 This tutorial provides an overview of implementing Group Policy and managing user accounts within a domain controller<br />
 
 <h2>Environments and Technologies Used</h2>
