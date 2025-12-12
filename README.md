@@ -73,7 +73,7 @@ Within the client VM, open File Explorer > in the main search bar \\(domain cont
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go back to the domain controller VM > open Active Directory Users and Computers > right click my domain and create a new organizational unit named “_GROUPS” > within the _GROUPS folder, right click, go to New, and create a group named “ACCOUNTANTS” 
+Go back to the domain controller VM > open Active Directory Users and Computers > right click my domain and create a new organizational unit named “_GROUPS” > within the _GROUPS folder, right click the white area on the right, go to New, and create a group named “ACCOUNTANTS” 
 </p>
 <br />
 
@@ -106,13 +106,5 @@ Log out of the client VM and go back to the domain controller VM > Within Active
 </p>
 <p>
 Now log back into the client VM with the user > open File Explorer > Type \\(domain controller name) in the larger search bar > now try accessing the accounting folder (you should be able to view the folder and save things)
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
