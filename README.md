@@ -15,10 +15,10 @@ This tutorial provides an overview of implementing Network File Shares and Permi
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1: Create and Organize User Accounts and Groups
-- Step 2: Define and Configure Group Policy Objects (GPOs)
-- Step 3: Link GPOs to Organizational Units (OUs)
-- Step 4: Monitor, Update, and Maintain Policies and Accounts
+- Step 1: Plan the Share Structure
+- Step 2: Create the File Shares
+- Step 3: Assign Permissions
+- Step 4: Test and Maintain Access
 
 <h2>Deployment and Configuration Steps</h2>
 
